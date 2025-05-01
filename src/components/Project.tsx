@@ -17,8 +17,8 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://github.com/Soniraja17/Devopswithsoni" target="_blank" rel="noreferrer"><img src={mock12} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/Soniraja17/Devopswithsoni" target="_blank" rel="noreferrer"><h2>Portfolio</h2></a>
+                <a href="https://github.com/Soniraja17/personalwebsite" target="_blank" rel="noreferrer"><img src={mock12} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Soniraja17/personalwebsite" target="_blank" rel="noreferrer"><h2>Portfolio</h2></a>
                 <p>Developed personal portfolio using react javascript and tailwind css express js and node js.</p>
             </div>
             <div className="project">
