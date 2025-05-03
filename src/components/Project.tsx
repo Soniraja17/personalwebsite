@@ -38,7 +38,7 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://github.com/Soniraja17/Covid-Screener" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/Soniraja17/Covid-Screener" target="_blank" rel="noreferrer"><h2>WeManage: COVID-19 Screener</h2></a>
+                <a href="https://github.com/Soniraja17/Covid-Screener" target="_blank" rel="noreferrer"><h2> COVID-19 Screener</h2></a>
                 <p>Developed COVID-19 screener using arduino and sensor to detect temperature and maintanance of social distance coded in c++</p>
             </div>
             <div className="project">
